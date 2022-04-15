@@ -74,6 +74,14 @@ There are 2 vacation blocks during the training:
 
 All **Bank Holidays** will be respected as well.
 
+| Dates                        | 
+| ---------------------------- | 
+| May 26th | 
+| June 6th | 
+| July 21st | 
+| August 15th|  
+
+
 ## Requirements
 
 List of minimal requirements for the trainees:
