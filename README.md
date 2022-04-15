@@ -80,6 +80,7 @@ All **Bank Holidays** will be respected as well.
 | June 6th | 
 | July 21st | 
 | August 15th|  
+| November 1st| 
 
 
 ## Requirements
