@@ -17,26 +17,26 @@ Note: The ultimate goal is the mindset, not specific tools. For that reason the 
 
 | Field                                                                            |                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Terminal](https://github.com/becodeorg/ai-track/tree/master/content/1.terminal) | Introduction to the fundamentals of the command line interface (Unix/Linux) such as navigation, file operation, permissions, package management, text edition, pipes, FIFO, re-directions, environment variables and versioning tools like git. |
-| [Python](https://github.com/becodeorg/ai-track/tree/master/content/2.python)     | Introduction to the language fundamentals in order to execute simple tasks. Understanding the OOP principles and the processes that are required to work with all kinds of files that contain data.                                             |
+| [Terminal](https://github.com/becodeorg/ANT-Theano-4/tree/master/content/1.terminal) | Introduction to the fundamentals of the command line interface (Unix/Linux) such as navigation, file operation, permissions, package management, text edition, pipes, FIFO, re-directions, environment variables and versioning tools like git. |
+| [Python]    | Introduction to the language fundamentals in order to execute simple tasks. Understanding the OOP principles and the processes that are required to work with all kinds of files that contain data.                                             |
 
 | Hill                                                                                                                    |                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Data tools](https://github.com/becodeorg/ai-track/tree/master/content/3.data_tools)                                    | Get familiar with all the necessary libraries such as [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/) so the preprocessing of data can be done in a quick and "clean" way. You'll also learn how to scrap data from websites. |
-| [Data preprocessing](https://github.com/becodeorg/ai-track/tree/master/content/4.machine_learning/0.data_preprocessing) | Learn how to preprocess data for a machine learning model, whether it be tabular data or images.                                                                                                                                                                                          |
+| [Data tools]                                    | Get familiar with all the necessary libraries such as [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/) so the preprocessing of data can be done in a quick and "clean" way. You'll also learn how to scrap data from websites. |
+| [Data preprocessing] | Learn how to preprocess data for a machine learning model, whether it be tabular data or images.                                                                                                                                                                                          |
 
 | Mountain                                                                                         |                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Machine Learning](https://github.com/becodeorg/ai-track/tree/master/content/4.machine_learning) | In machine learning, dealing with data is the most time-consuming process, so learning techniques such as cleaning data, histograms, etc, will make the data preparation more accurate. You'll also get familiar with procedures such as regression, classification, model evaluation, etc... |
-| [Databases & Deployment](https://github.com/becodeorg/ai-track/tree/master/content/5.deployment) | Learn how to store data in databases and to deploy a web service which can be accessed from anywhere in the world using a REST API and Docker.                                                                                                                                                |
-| [Deep Learning](https://github.com/becodeorg/ai-track/tree/master/content/6.deep_learning)       | Start with building a simple neural network from scratch and finally interact with Keras, PyTorch and OpenCV, will lead you to solve challenges in fields such as Computer Vision and Natural Language Processing (NLP).                                                                      |
+| [Machine Learning] | In machine learning, dealing with data is the most time-consuming process, so learning techniques such as cleaning data, histograms, etc, will make the data preparation more accurate. You'll also get familiar with procedures such as regression, classification, model evaluation, etc... |
+| [Databases & Deployment] | Learn how to store data in databases and to deploy a web service which can be accessed from anywhere in the world using a REST API and Docker.                                                                                                                                                |
+| [Deep Learning]       | Start with building a simple neural network from scratch and finally interact with Keras, PyTorch and OpenCV, will lead you to solve challenges in fields such as Computer Vision and Natural Language Processing (NLP).                                                                      |
 
 ## How to thrive at BeCode?
 
 Read the following documents:
 
 1. Read the [Pedagogical Contract](https://github.com/becodeorg/BeCode/blob/master/educationalcontractAI.md)
-2. If you need a refresher, here is the presentation about the [rules](https://docs.google.com/presentation/d/12NcwJp-x64T5kKnRDdwa1rN54Ab3BZhUUoT28Nv2K9o/edit#slide=id.p1)
+2. If you need a refresher, here is the presentation about the [rules](https://docs.google.com/presentation/d/1x5lRA1KaQY8nC62aNJupzee8pFtipgJr/edit#slide=id.p2)
 
 ## Respect for planning: being late & absence
 
@@ -69,10 +69,19 @@ There are 2 vacation blocks during the training:
 
 | Dates                        | What are we doing? |
 | ---------------------------- | ------------------ |
-| November 2nd -> November 6th | Planned vacation   |
-| January 18th -> January 22nd | Planned vacation   |
+| June 27th -> July 1st | Planned vacation   |
+| August 29th -> September 2nd | Planned vacation   |
 
 All **Bank Holidays** will be respected as well.
+
+| Dates                        | 
+| ---------------------------- | 
+| May 26th | 
+| June 6th | 
+| July 21st | 
+| August 15th|  
+| November 1st| 
+
 
 ## Requirements
 
